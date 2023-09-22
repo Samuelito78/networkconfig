@@ -1,4 +1,4 @@
-# Project Objective ✅
+## Project Objective ✅
 
 The aim of this project was to establish a network configuration with the following key components:
 
